@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: ameldocker98/vault:Netflix
+        image: ameldocker98/netflixott:latest
         ports:
         - containerPort: 80
